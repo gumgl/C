@@ -1,4 +1,4 @@
 C
 =
 
-School/side projects in Visual C++, developed in Visual Studio 2010
+Side projects in Visual C++, developed in Visual Studio 2010
